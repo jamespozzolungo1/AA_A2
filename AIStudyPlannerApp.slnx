@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AIStudyPlannerApp.Tests/AIStudyPlannerApp.Tests.csproj" Id="b86d37f4-f994-4194-b304-e7c672c55fb2" />
+  <Project Path="AIStudyPlannerApp/AIStudyPlannerApp.csproj" />
+</Solution>
